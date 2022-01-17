@@ -1,0 +1,10 @@
+Header header
+uint8 depth
+uint8 height
+uint8 width
+uint8 num_doppler_bins
+float32 range_bin_width
+float32 doppler_bin_width
+float32[] azimuth_bins
+float32[] elevation_bins
+float32[] image
