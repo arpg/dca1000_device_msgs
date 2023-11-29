@@ -1,4 +1,4 @@
-Header header
+std_msgs/Header header
 uint8 num_rx
 uint8 num_tx
 int8[] tx_order

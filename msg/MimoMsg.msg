@@ -1,4 +1,4 @@
-Header header
+std_msgs/Header header
 uint8 depth
 uint8 height
 uint8 width
