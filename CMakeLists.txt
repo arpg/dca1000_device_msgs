@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.8)
-project(dca1000_device_msgs)
+project(dca1000_device)
 
 # Default to C++14
 if(NOT CMAKE_CXX_STANDARD)
